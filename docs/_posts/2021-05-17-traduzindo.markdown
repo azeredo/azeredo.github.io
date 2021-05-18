@@ -4,7 +4,7 @@ title:  "Traduzindo Bitcoin"
 date:   2021-05-17 21:58:49 -0300
 categories: geral
 ---
-Como deixei no [sobre](/about) estou iniciando este projeto para traduzier conteúdo para a nossa língua, e assim ajudar a divulgar ainda mais o protocolo Bitcoin, visando que mais pessoas entendam o que está por trás deste presente nos dado por [Satoshi Nakamoto](https://bitcoin.org/files/bitcoin-paper/bitcoin_pt_br.pdf)
+Como deixei no [sobre](/about) estou iniciando este projeto para traduzir conteúdos para a nossa língua, e assim ajudar a divulgar ainda mais o protocolo Bitcoin, visando que mais pessoas entendam o que está por trás deste presente nos dado por [Satoshi Nakamoto](https://bitcoin.org/files/bitcoin-paper/bitcoin_pt_br.pdf)
 
 A intenção é ter este espaço para realizar as traduções dos artigos e notícias, e usar o [twitter](https://twitter.com/bitcoinPtBr) mais para divulgar o que está sendo traduzido aqui, assim como para traduzir alguns twteets que eu acho relevante/engraçado, assim como threads de discussões ou explicações realizas por lá.
 
