@@ -14,4 +14,4 @@ Estou aberto a sugestões de artigos, ainda não sei como colocar isso aqui nest
 
 Já deixo aqui também, o meu obrigado pelo interesse nestas traduções, mas de novo, faço isto por puro interesse meu (egoísmo rules!), pois pretendo aumentar ainda mais o meu conhecimento em Bitcoin e não deixar o meu inglês enferrujar.
 
-Que venham as traduções
+Que venham as traduções.
