@@ -4,7 +4,7 @@ title: Sobre
 permalink: /about/
 ---
 
-A ideia aqui é apenas fazer traduções de artigos e notícias sobre o Bitcoin, visando deixar o tema ainda mais acessivel para todos. Não pretendo ser um produtor de conteúdo próprio, pois sou apenas um cara que se apaixou pelo assunto, e por toda a liberdade que o Bitcoin nos proporciona e proporcionará, assim com este trabalho quero aumentar ainda mais o meu conhecimento sobre o mesmo.
+A ideia aqui é apenas fazer traduções de artigos e notícias sobre o Bitcoin, visando deixar o tema ainda mais acessivel para todos. Não pretendo ser um produtor de conteúdo próprio, pois sou apenas um cara que se apaixou pelo assunto, e por toda a liberdade que o Bitcoin nos proporciona e proporcionará. Assim com este trabalho quero aumentar ainda mais o meu conhecimento sobre o mesmo e ajudar a quem eu puder ajudar.
 
 Se busca conteúdo próprio em português, sugiro usar todo o seu tempo lendo e assistindo os Bitcoinheiros
 [site](https://bitcoinheiros.com) /
@@ -17,6 +17,6 @@ Lendo livros como:
 
 [Bitcoin - a moeda na era digital - Fernando Ulrich](https://rothbardbrasil.com/bitcoin-a-moeda-na-era-digital/)
 
-E os artigos do [Guilher Bandeira](https://guilhermebandeira.substack.com/)
+Os artigos do [Guilherme Bandeira](https://guilhermebandeira.substack.com/)
 
-Caso queira discutir com uma galera que me ajuda muito, e todos que os procuram, busque pelo The Bitcoin Discord do [Miguel Medeiros](https://twitter.com/_miguelmedeiros)
+E caso queira discutir com uma galera que me ajuda muito, e todos que os procuram, busque pelo The Bitcoin Discord do [Miguel Medeiros](https://twitter.com/_miguelmedeiros)
